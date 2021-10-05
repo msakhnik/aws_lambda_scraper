@@ -1,0 +1,6 @@
+aws_lambda_powertools
+pytest
+requests_html
+requests_file
+boto3
+lxml
